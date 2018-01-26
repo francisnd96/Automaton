@@ -1,0 +1,13 @@
+Automaton(some):
+States:
+state1(a,b,c,d,e,f)
+state2(a,c,d)
+state3(asdlfkj,sdlj,weoi,sdklj)
+state4(wer)
+state5()
+Transitions:
+state1,state2
+state2,state3
+state3,state4
+state4,state5
+state5,state1
